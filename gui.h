@@ -34,6 +34,7 @@ alt_up_char_buffer_dev* char_buf;
 alt_up_pixel_buffer_dma_dev* pixel ;
 short * back;
 // ,lh hts] hg]dk hgh lg,; , hpfhv s,x ,vifhkih
+// clown damage random ensure main keen accuse inform wife sand convince stuff
 void set_box(unsigned short y1 ,unsigned short y2 ,unsigned short x1 ,unsigned short x2 , short value , char backBuffer){
 	for(int i = y1 ; i < y2 ; i++)
 		for(int k = x1 ; k < x2 ; k++){
